@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "496248912413",
+    "firebase_url": "https://lipit-chat.firebaseio.com",
+    "project_id": "lipit-chat",
+    "storage_bucket": "lipit-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496248912413:android:5c84155b4cdec72a",
+        "android_client_info": {
+          "package_name": "com.quangedm2202.fithou_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496248912413-tjoiq7qorkt4d65dvr15gbhq0dsc6had.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quangedm2202.fithou_chat",
+            "certificate_hash": "674f0a9f786eba3e01a48453c3fb44dd611ca392"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsnLNMFIX6zzEZJNZZWMzNvl3AMg0tARU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496248912413-1fd3vupm2fesvaug4l12l3ib8j0hcrjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
